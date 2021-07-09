@@ -1,0 +1,2 @@
+rootProject.name = "ApiCallApplication"
+include ':app'
